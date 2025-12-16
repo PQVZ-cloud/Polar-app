@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "lastUpdate": "2025-12-16",
+  "appEnabled": true,
+  "message": "",
+  "minVersion": "1.0.0",
+  "licenses": {
+    "UPLAY-ADMN-ABUH-ASAN-MSTR": {
+      "type": "Admin",
+      "expiration": null,
+      "hardwareIds": null,
+      "enabled": true,
+      "note": "Master Admin"
+    },
+    "UPLAY-DENU-2025-USER-0001": {
+      "type": "Denuvo",
+      "expiration": "2026-12-31",
+      "hardwareIds": null,
+      "enabled": true,
+      "note": "Demo User"
+    }
+  },
+  "bannedHardwareIds": [],
+  "announcements": []
+}
